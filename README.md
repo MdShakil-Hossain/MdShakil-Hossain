@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Shakil Hossain</h1>
+<h3 align="center">A Data Science major at East West University's CSE department. My journey has taken me through various languages, frameworks, and projects in data science, databases, and full-stack development! 💻</h3>
 
-<!--
-**MdShakil-Hossain/MdShakil-Hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mdshakil-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdshakil-hossain" /> 
+</p>
 
-Here are some ideas to get you started:
+<!-- Profile Trophy Section -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mdshakil-hossain" alt="mdshakil-hossain" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Fun Animated Gifs -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
+</div>
+
+<!-- Profile Description and Fun Facts -->
+- 🔭 I’m currently working on **Projects using Python for data visualization, predictive modeling, and more.**
+
+- 🌱 I’m currently learning **Advanced data science concepts, machine learning models, and statistical analysis.**
+
+- 💬 Ask me about **Python, data science concepts, or anything tech-related!**
+
+- 📫 How to reach me **shakilhossain733@gmail.com**
+
+- ⚡ Fun fact **I love exploring how data impacts real-world decisions and aspire to use data-driven insights to solve complex problems.**
+
+<!-- Connect With Me Section -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/md-shakil-hossain733" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shakil-hossain733" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/md.shakil.hossain.6969" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.shakil.hossain.6969" height="30" width="40" />
+  </a>
+</p>
+
+<!-- Languages and Tools Section -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
+  </a> 
+  <!-- Add more icons in a similar format -->
+  <!-- ... other icons here ... -->
+</p>
+
+<!-- GitHub Stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshakil-hossain&show_icons=true&locale=en&layout=compact" alt="mdshakil-hossain" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshakil-hossain&show_icons=true&locale=en" alt="mdshakil-hossain" /></p>
