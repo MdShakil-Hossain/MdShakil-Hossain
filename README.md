@@ -14,8 +14,8 @@
 
 <!-- Fun Animated Gifs -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtweHR1cGE4N2F0NHRqbHNqcW1mbWlhNW45eDh6eXZpNHNqaG9yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2YmI5cm9mNmVmeml2Ymwyb3J2bnRkczg4enZ4N2ltb2JuNjlzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
 </div>
 
 <!-- Profile Description and Fun Facts -->
