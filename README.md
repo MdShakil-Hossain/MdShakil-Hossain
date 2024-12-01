@@ -46,8 +46,6 @@
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
   </a> 
-  <!-- Add more icons in a similar format -->
-  <!-- ... other icons here ... -->
 </p>
 
 <!-- GitHub Stats -->
@@ -62,5 +60,5 @@
 <!-- Snake Game Contribution Animation -->
 <div align="center">
   <h3>🐍 Snake Game - GitHub Contributions</h3>
-  <img src="https://github.com/mdshakil-hossain/mdshakil-hossain/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+  <img src="https://raw.githubusercontent.com/mdshakil-hossain/mdshakil-hossain/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
 </div>
