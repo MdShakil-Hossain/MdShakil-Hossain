@@ -62,5 +62,5 @@
 <!-- Snake Game Contribution Animation -->
 <div align="center">
   <h3>🐍 Snake Game - GitHub Contributions</h3>
-  <img src="https://github.com/mdshakil-hossain/mdshakil-hossain/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+  <img src="https://github.com/mdshakil-hossain/mdshakil-hossain/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
 </div>
