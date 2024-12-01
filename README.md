@@ -51,6 +51,16 @@
 </p>
 
 <!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshakil-hossain&show_icons=true&locale=en&layout=compact" alt="mdshakil-hossain" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshakil-hossain&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshakil-hossain&show_icons=true&locale=en" alt="mdshakil-hossain" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshakil-hossain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<!-- Snake Game Contribution Animation -->
+<div align="center">
+  <h3>🐍 Snake Game - GitHub Contributions</h3>
+  <img src="https://github.com/mdshakil-hossain/mdshakil-hossain/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+</div>
