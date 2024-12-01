@@ -20,13 +20,9 @@
 
 <!-- Profile Description and Fun Facts -->
 - 🔭 I’m currently working on **Projects using Python for data visualization, predictive modeling, and more.**
-
 - 🌱 I’m currently learning **Advanced data science concepts, machine learning models, and statistical analysis.**
-
 - 💬 Ask me about **Python, data science concepts, or anything tech-related!**
-
 - 📫 How to reach me **shakilhossain733@gmail.com**
-
 - ⚡ Fun fact **I love exploring how data impacts real-world decisions and aspire to use data-driven insights to solve complex problems.**
 
 <!-- Connect With Me Section -->
