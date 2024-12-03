@@ -66,11 +66,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshakil-hossain&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
-<!-- Contribution Graph with Custom Theme -->
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api?username=mdshakil-hossain&theme=github-dark&border_radius=10&hide_border=true&count_private=true" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
 </p>
-
 
 
 <!-- Dynamic Skills Proficiency Graph -->
