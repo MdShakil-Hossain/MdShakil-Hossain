@@ -53,24 +53,12 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdshakil-hossain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshakil-hossain&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshakil-hossain&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
-</p>
-
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=MdShakil-Hossain&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MdShakil-Hossain&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=MdShakil-Hossain&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=MdShakil-Hossain&theme=onedark" />
+</div>
 
 <!-- Dynamic Skills Proficiency Graph -->
 <h3 align="left">Skills and Proficiency:</h3>
