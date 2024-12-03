@@ -13,52 +13,68 @@
 </p>
 
 <!-- Fun Animated Gifs -->
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtweHR1cGE4N2F0NHRqbHNqcW1mbWlhNW45eDh6eXZpNHNqaG9yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2YmI5cm9mNmVmeml2Ymwyb3J2bnRkczg4enZ4N2ltb2JuNjlzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
-</div>
+<p align="center">
+  <img src="https://i.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="fun gif" />
+  <img src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="fun gif" />
+</p>
 
 <!-- Profile Description and Fun Facts -->
-<p align="left">
-  - 🔭 I’m currently working on **Projects using Python for data visualization, predictive modeling, and more.**<br>
-  - 🌱 I’m currently learning **Advanced data science concepts, machine learning models, and statistical analysis.**<br>
-  - 💬 Ask me about **Python, data science concepts, or anything tech-related!**<br>
-  - 📫 How to reach me **shakilhossain733@gmail.com**<br>
-  - ⚡ Fun fact **I love exploring how data impacts real-world decisions and aspire to use data-driven insights to solve complex problems.**
-</p>
+<h3 align="left">About Me:</h3>
+<ul>
+  <li>🔭 I’m currently working on <strong>projects using Python for data visualization, predictive modeling, and more.</strong></li>
+  <li>🌱 I’m currently learning <strong>advanced data science concepts, machine learning models, and statistical analysis.</strong></li>
+  <li>💬 Ask me about <strong>Python, data science concepts, or anything tech-related!</strong></li>
+  <li>📫 How to reach me: <strong>shakilhossain733@gmail.com</strong></li>
+  <li>⚡ Fun fact: <strong>I love exploring how data impacts real-world decisions and aspire to use data-driven insights to solve complex problems.</strong></li>
+</ul>
 
 <!-- Connect With Me Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/md-shakil-hossain733" target="blank">
+  <a href="https://linkedin.com/in/md-shakil-hossain733" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/md.shakil.hossain.6969" target="blank">
+  <a href="https://fb.com/md.shakil.hossain.6969" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
 </p>
 
 <!-- GitHub Stats -->
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=MdShakil-Hossain&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MdShakil-Hossain&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=MdShakil-Hossain&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=MdShakil-Hossain&theme=onedark" />
-</div>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=MdShakil-Hossain&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MdShakil-Hossain&layout=compact&theme=onedark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=MdShakil-Hossain&theme=github" alt="GitHub Activity Graph" />
+<img width="385px" src="https://github-readme-streak-stats.herokuapp.com?user=MdShakil-Hossain&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
 
 <!-- Dynamic Skills Proficiency Graph -->
 <h3 align="left">Skills and Proficiency:</h3>
