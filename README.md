@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=mdshakil-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
+
 <!-- Profile Trophy Section -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -18,7 +20,9 @@
   <img src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="fun gif" />
 </p>
 
-<!-- Profile Description and Fun Facts -->
+---
+
+<!-- About Me Section -->
 <h3 align="left">About Me:</h3>
 <ul>
   <li>🔭 I’m currently working on <strong>projects using Python for data visualization, predictive modeling, and more.</strong></li>
@@ -27,6 +31,8 @@
   <li>📫 How to reach me: <strong>shakilhossain733@gmail.com</strong></li>
   <li>⚡ Fun fact: <strong>I love exploring how data impacts real-world decisions and aspire to use data-driven insights to solve complex problems.</strong></li>
 </ul>
+
+---
 
 <!-- Connect With Me Section -->
 <h3 align="left">Connect with me:</h3>
@@ -38,6 +44,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
@@ -65,6 +73,8 @@
   </a>
 </p>
 
+---
+
 <!-- GitHub Stats -->
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
@@ -73,11 +83,20 @@
 </p>
 <p align="center">
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=MdShakil-Hossain&theme=github" alt="GitHub Activity Graph" />
-<img width="385px" src="https://github-readme-streak-stats.herokuapp.com?user=MdShakil-Hossain&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com?user=MdShakil-Hossain&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
+---
+
 <!-- Dynamic Skills Proficiency Graph -->
-<h3 align="left">Skills and Proficiency:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,react,sql,html,css,js,java" alt="Skills" />
+<h3 align="center">Skills and Proficiency:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,react,sql,html,css,js,java,docker,git" alt="Skills" />
+</p>
+
+---
+
+<!-- GitHub Contributions Snake -->
+<p align="center">
+  <img src="https://github.com/mdshakil-hossain/mdshakil-hossain/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Animation" />
 </p>
