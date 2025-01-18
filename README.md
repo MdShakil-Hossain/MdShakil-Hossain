@@ -98,5 +98,5 @@
 
 <!-- GitHub Contributions Snake -->
 <p align="center">
-  <img src="https://github.com/mdshakil-hossain/mdshakil-hossain/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Animation" />
+  <img src="https://github.com/mdshakil-hossain/mdshakil-hossain/blob/output/snake.svg" alt="GitHub Snake Contribution Animation" />
 </p>
