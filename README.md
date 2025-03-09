@@ -1,3 +1,7 @@
+<!-- Banner at the Top -->
+<p align="center">
+  <img src="https://github.com/MdShakil-Hossain/Banner/blob/main/Dark%20Blue%20and%20Brown%20Futuristic%20AI%20Technology%20Banner.png" alt="Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Md Shakil Hossain</h1>
 <h3 align="center">A Data Science major at East West University's CSE department. My journey has taken me through various languages, frameworks, and projects in data science, databases, and full-stack development! 💻</h3>
 
