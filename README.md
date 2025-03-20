@@ -99,3 +99,11 @@
 </p>
 
 ---
+
+<!-- GitHub Contributions Snake Animation -->
+<h3 align="center">
+  🐍 <em>GitHub Contribution Feeding Snake</em> 🎮
+</h3>
+<p align="center">
+  <img src="https://github.com/MdShakil-Hossain/MdShakil-Hossain/blob/output/github-snake-dark.svg" alt="GitHub Contributions Snake">
+</p>
