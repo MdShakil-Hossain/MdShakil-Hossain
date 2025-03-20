@@ -87,7 +87,7 @@
 </p>
 <p align="center">
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=MdShakil-Hossain&theme=github" alt="GitHub Activity Graph" />
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com?user=MdShakil-Hossain&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img width="385px" src="https://github-readme-streak-stats-eight.vercel.app/?user=MdShakil-Hossain&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
 ---
